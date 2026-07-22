@@ -31,6 +31,8 @@ Executar testes manuais em aplicações reais, validando funcionalidades, interf
 
 - 📄 Login-Feature.xlsx
 - 📷 Evidências dos testes
+- <img width="1875" height="480" alt="image" src="https://github.com/user-attachments/assets/fd160290-66c9-41b8-be4c-c51caaeb4c2a" />
+
 
 ---
 
