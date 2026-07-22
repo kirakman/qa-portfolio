@@ -2,7 +2,7 @@
 
 ## Série no LinkedIN: Da Tela ao Teste
 
-## Manual Testing • API • SQL • Playwright
+### Manual Testing • API • SQL • Playwright
 
 Olá! Sou João Paulo.
 
