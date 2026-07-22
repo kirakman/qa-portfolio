@@ -1,4 +1,8 @@
-# 🧪 QA Portfolio
+🧪 QA Portfolio
+
+Série no LinkedIN: Da Tela ao Teste
+
+Manual Testing • API • SQL • Playwright
 
 Olá! Sou João Paulo.
 
